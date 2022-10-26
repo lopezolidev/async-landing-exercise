@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-exercise",
+  "version": "1.0.0",
+  "description": "An exercise of JS asynchronism in a landing page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioiscoding/async-landing-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioiscoding/async-landing-exercise/issues"
+  },
+  "homepage": "https://github.com/sergioiscoding/async-landing-exercise#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
